@@ -1,4 +1,0 @@
-Hôte de connexion (HOST) : cl1-sql20
- Nom d'utilisateur (LOGIN) : rev39301
- Nom de BASE : rev39301
- Mot de passe (PASSWORD) : pjTgh4P6EIqP
