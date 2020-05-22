@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: /https://g-lacroix.cours-archive.fr/mailto:gregorylacroix78@gmail.com
- 
-Sitemap: https://g-lacroix.cours-archive.fr/sitemaps.xml
