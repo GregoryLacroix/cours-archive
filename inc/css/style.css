@@ -1,0 +1,146 @@
+*{
+    text-decoration: none !important;
+}
+
+html{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.fond{
+    background-color: #E3E3E3 !important;
+    -webkit-box-shadow: 3px 2px 72px 0px rgba(0,0,0,0.75) !important;
+    -moz-box-shadow: 3px 2px 72px 0px rgba(0,0,0,0.75) !important;
+    box-shadow: 3px 2px 72px 0px rgba(0,0,0,0.75) !important;
+}
+
+.fond2{
+    /* background-color: #E3E3E3 !important; */
+    -webkit-box-shadow: 3px 2px 72px 0px rgba(0,0,0,0.75) !important;
+    -moz-box-shadow: 3px 2px 72px 0px rgba(0,0,0,0.75) !important;
+    box-shadow: 3px 2px 72px 0px rgba(0,0,0,0.75) !important;
+
+    
+}
+
+.fond2::-webkit-scrollbar {
+    display: none;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+#modal-ml::-webkit-scrollbar{
+    display: none !important;
+}
+
+
+nav{
+    /* border-bottom: 4px solid #117a8b !important; */
+}
+
+body{
+    /* height: 84vh !important; */
+    height: 100%; 
+    /* background-color: #F2F2F2; */
+    /* margin-bottom: 100px; */
+    background: url(https://g-lacroix.cours-archive.fr/img/background18-compressor-min.jpg) repeat;
+    background-size: cover;
+}
+
+footer{
+    /* background: #343a40; */
+    padding: 1.8vh !important;
+    color: #fff;
+    /* text-align: center; */
+    /* border-top: 4px solid #117a8b !important; */
+}
+
+.ma-section{
+    padding: 0 !important;
+    /* margin-top: 70px; */
+    /* min-height: 83.3vh; */
+}
+
+.icone-modif{
+    font-size: 1.2em;
+}
+
+table{
+    margin-bottom: 0 !important;
+}
+
+hr{
+    margin: 0 !important;
+}
+
+.arrondi{
+    border-radius: 10px !important;
+    /* border: 2px solid #117a8b !important; */
+    /* margin: 0 !important;  */
+}
+
+.arrondi-div{
+    border-radius: 10px !important;
+}
+
+.mon-formulaire{
+    /* padding-bottom: 5vh !important; */
+}
+
+/* .modal-index {
+    z-index: 100000 !important;
+} */
+
+.modal-backdrop{
+    z-index: auto !important;
+}
+
+/* .ma-section{
+    min-height: 150vh !important;
+} */
+
+.table-archive td{
+    border-top: 0 !important;
+}
+
+/**************** RESPONSIVE ***********************/
+@media screen and (min-width: 1140px){
+    .ma-section{
+        min-height: 83.3vh;
+    }
+}
+
+@media screen and (min-width: 1700px){
+    .ma-section{
+        min-height: 84.5vh;
+    }
+}
+
+/**************** LOADER ***********************/
+.loader {
+    position : fixed;
+    z-index: 9999;
+    background : url('https://g-lacroix.cours-archive.fr/img/loader3.gif') 50% 50% no-repeat; 
+    /* background : url('https://cours-archive.fr/img/loader2.gif') 50% 50% no-repeat; */
+    /* background : url('http://localhost/cours-archive/img/loader3.gif') 50% 50% no-repeat; */
+    top : 0px;
+    left : 0px;
+    height : 100%;
+    width : 100%;
+    cursor : wait;
+    color: #343a40 !important;
+}
+
+/**************** BOUTON DEMASQUER MOT DE PASSE *****************/
+
+
+
+
+
+
+
+
+

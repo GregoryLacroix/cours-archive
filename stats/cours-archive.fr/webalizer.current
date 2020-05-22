@@ -1,0 +1,299 @@
+# Webalizer V2.23-08 Incremental Data - 04/04/2019 19:31:17
+2019 4 4 19 31 17
+170 86 29 15 12 16 56612341 116 33 0 0 0
+4 3 34 1 4
+89 50 55499625 18 67 18 0 0
+40 17 415949 6 28 7 0 0
+19 7 243319 4 9 4 0 0
+22 12 453448 4 12 4 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+1 0 209 0 0 0
+1 0 19194 1 0 0
+2 1 26896 2 0 0
+2 0 38388 2 0 0
+9 0 39837 6 0 0
+2 1 26896 2 0 0
+9 7 184288 2 0 0
+0 0 0 0 0 0
+10 9 342384 2 0 0
+28 15 54793003 11 0 0
+2 0 417 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 2 78495 4 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 2 26896 4 0 0
+6 3 109522 6 0 0
+6 3 90834 5 0 0
+59 34 617005 50 0 0
+7 0 20435 5 0 0
+10 4 99166 6 0 0
+8 5 98476 8 0 0
+0
+0
+0
+86
+0
+0
+0
+0
+0
+0
+0
+0
+46
+0
+12
+0
+0
+0
+0
+0
+0
+26
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/img/developpement-web1.jpg
+1 5 25960 67710 0 0 0 0
+/img/developpement.gif
+1 5 94364574366128 39168 0 0 0 0
+/img/loader2.gif
+1 4 0 260144 0 0 0 0
+/img/developpement-web3.jpg
+1 5 0 78642 0 0 0 0
+/img/bs.png
+1 5 0 234444 0 0 0 0
+/inc/css/style.css
+0 5 0 3515 0 0 0 0
+/modif_archive.php
+0 2 7002646021468613999 18662 0 1 0 0
+/FOLDER/WOOCOMERCE/woocommerce.zip
+0 1 3761962758177095680 1021 0 0 0 0
+/ajout.php
+0 3 8026310034363346543 23103 1 0 0 0
+/tchat.php
+0 9 3472607610869526067 63583 1 0 0 0
+/
+0 18 8443745944796016946 144090 17 2 0 0
+/FOLDER/PHP/exemples_evogue_php.zip
+0 1 18158855856902584625 54350578 0 0 0 0
+/connexion.php
+0 29 3545513980639785216 303054 9 4 0 0
+/img/favicon.png
+1 1 94364574376672 28232 0 0 0 0
+/img/developpement-web4.jpg
+1 5 94364574349712 49479 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+crawl-66-249-66-66.googlebot.com
+0 1 1 7702 1 1554142397 0 0
+/connexion.php
+37.173.104.95
+0 25 11 244098 2 1554236000 0 0
+/connexion.php
+37.173.229.102
+0 10 9 342384 1 1554367187 0 0
+/connexion.php
+ec2-52-53-185-124.us-west-1.compute.amazonaws.com
+0 2 1 0 1 1554138643 0 0
+/connexion.php
+crawl-66-249-66-27.googlebot.com
+0 1 0 209 0 0 0 0
+-
+151.106.8.38
+0 3 2 63733 1 1554406277 0 0
+/connexion.php
+95.ip-51-254-101.eu
+0 3 1 27101 1 1554146035 0 0
+/connexion.php
+crawl-66-249-64-206.googlebot.com
+0 1 0 19194 1 1554087494 0 0
+-
+37.171.200.37
+0 8 5 98476 1 1554160759 0 0
+/tchat.php
+crawl-66-249-66-70.googlebot.com
+0 1 0 19194 1 1554142385 0 0
+/
+crawl-66-249-66-81.googlebot.com
+0 2 2 15404 1 1554242658 0 0
+/connexion.php
+37.164.177.200
+0 9 7 184288 1 1554273753 0 0
+/connexion.php
+37.170.173.220
+0 34 23 372907 4 1554152118 0 0
+/ajout.php
+crawl-66-249-64-204.googlebot.com
+0 1 1 7702 1 1554087512 0 0
+/connexion.php
+crawl-66-249-66-82.googlebot.com
+0 1 0 209 0 0 0 0
+-
+ec2-13-57-233-99.us-west-1.compute.amazonaws.com
+0 2 1 26896 1 1554216095 0 0
+/connexion.php
+37.165.141.11
+0 13 10 54696953 1 1554109685 0 0
+/connexion.php
+216.145.5.42
+0 2 0 19402 1 1554267274 0 0
+/
+80.215.161.35
+0 14 5 120544 2 1554130487 0 0
+/
+crawl-66-249-66-80.googlebot.com
+0 7 1 46925 2 1554242635 0 0
+/
+crawl-66-249-66-26.googlebot.com
+0 1 0 208 0 0 0 0
+-
+114.198.159.77.rev.sfr.net
+0 4 2 82626 1 1554228793 0 0
+/connexion.php
+185.81.157.113
+0 1 0 19194 1 1554254502 0 0
+/
+193.148.19.183
+0 3 2 63733 1 1554157396 0 0
+/connexion.php
+ec2-34-211-216-36.us-west-2.compute.amazonaws.com
+0 1 0 19194 1 1554089460 0 0
+-
+198-12-95-230-host.colocrossing.com
+0 14 0 40870 2 1554350764 0 0
+-
+ec2-52-53-201-78.us-west-1.compute.amazonaws.com
+0 4 2 53792 2 1554397727 0 0
+/connexion.php
+crawl-66-249-64-202.googlebot.com
+0 1 0 209 0 0 0 0
+-
+ec2-54-184-74-1.us-west-2.compute.amazonaws.com
+0 1 0 19194 1 1554089458 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+37.173.229.102
+0 10 9 342384 1 1554367187 0 0
+/connexion.php
+151.106.8.38
+0 3 2 63733 1 1554406277 0 0
+/connexion.php
+198-12-95-230-host.colocrossing.com
+0 7 0 20435 1 1554350764 0 0
+-
+ec2-52-53-201-78.us-west-1.compute.amazonaws.com
+0 2 1 26896 1 1554397727 0 0
+/connexion.php
+# End Of Table - sites (daily)
+# -referrers- 
+https://cours-archive.fr/ajout.php
+1 4
+https://cours-archive.fr/
+1 1
+http://cours-archive.fr/
+1 2
+https://cours-archive.fr/index.php
+1 21
+https://cours-archive.fr/connexion.php
+1 53
+- (Direct Request)
+0 62
+https://cours-archive.fr/modif_archive.php
+1 3
+https://cours-archive.fr/inc/css/style.css
+1 4
+https://www.cours-archive.fr/
+1 1
+http://www.cours-archive.fr/
+1 3
+https://cours-archive.fr/admin
+1 1
+https://cours-archive.fr/tchat.php
+1 15
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.13; rv:61.0) Gecko/20100101 Firefox/61.0
+0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+0 10
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 14
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 6
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
+0 6
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+0 3
+Go-http-client/1.1
+0 2
+Googlebot-Image/1.0
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+0 23
+Mozilla/5.0 (Windows NT 10.0; rv:64.0) Gecko/20100101 Firefox/64.0
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:59.0) Gecko/20100101 Firefox/59.0
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 5
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36 OPR/54.0.29
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+0 80
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
